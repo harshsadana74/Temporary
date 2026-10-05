@@ -1,0 +1,192 @@
+Received: from SEYPR03MB8500.apcprd03.prod.outlook.com (2603:1096:101:210::8)
+ by KU2PPFDC32F4B50.apcprd03.prod.outlook.com with HTTPS; Sat, 12 Sep 2026
+ 01:10:11 +0000
+Received: from SI2PR04CA0010.apcprd04.prod.outlook.com (2603:1096:4:197::11)
+ by SEYPR03MB8500.apcprd03.prod.outlook.com (2603:1096:101:210::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.406.10; Sat, 12 Sep
+ 2026 01:10:08 +0000
+Received: from OSA0EPF000000CB.apcprd02.prod.outlook.com
+ (2603:1096:4:197:cafe::95) by SI2PR04CA0010.outlook.office365.com
+ (2603:1096:4:197::11) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.21.406.9 via Frontend Transport; Sat, 12
+ Sep 2026 01:10:08 +0000
+Received: from mx08-001ac208.pphosted.com (143.55.149.216) by
+ OSA0EPF000000CB.mail.protection.outlook.com (10.167.240.57) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.21.406.5
+ via Frontend Transport; Sat, 12 Sep 2026 01:10:06 +0000
+Received: from pps.filterd (m0379124.ppops.net [127.0.0.1])
+	by mx08-001ac208.pphosted.com (8.18.1.11/8.18.1.11) with ESMTP id 68C139c93608955
+	for <dheeraj.hegde@sc.com>; Sat, 12 Sep 2026 01:10:04 GMT
+Received: from outbound34.service-now.com (outbound34.service-now.com [148.139.1.2])
+	by mx08-001ac208.pphosted.com (PPS) with ESMTPS id 4gmm8tv87t-1
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NOT)
+	for <Dheeraj.Hegde@sc.com>; Sat, 12 Sep 2026 01:10:04 +0000 (GMT)
+Received: from app128142.dub201.service-now.com (unknown [10.249.51.169])
+	by outbound34.service-now.com (Postfix) with ESMTP id 9DF0260004FE
+	for <Dheeraj.Hegde@sc.com>; Fri, 11 Sep 2026 18:10:03 -0700 (PDT)
+From: "eit1.0" <eit1.0@sc.com>
+To: "Hegde, Dheeraj" <Dheeraj.Hegde@sc.com>
+Subject: Welcome to your offboarding case Dheeraj
+Thread-Topic: Welcome to your offboarding case Dheeraj
+Thread-Index: AQHdQlN1e9UYFLWM7UeInl/jxbVB1w==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sat, 12 Sep 2026 01:10:03 +0000
+Message-ID: <1343664965.386135.1789175403620@app128142.dub201.service-now.com>
+List-Unsubscribe:
+	<mailto:scbnow01@service-now.com?body=Sending+this+email+with+the+predefined+content+in+the+subject+and+body+will+unsubscribe+you+from+the+notification.%0D%0A%0D%0AUnsubscribe%3A%7B%22id%22%3A%22c05cb6f6875df5104ba4a6890cbb350d%22%2C%22token%22%3A%22c797e62132%22%7D
+ &subject=Unsubscribe+from+%22Voluntary+Offboarding+-+Employee+Welcome+Email+to+Offboarding+Portal%22>
+Reply-To: "eit1.0" <eit1.0@sc.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthSource:
+	OSA0EPF000000CB.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-SupervisoryReview-OcrResultLocation:
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	c648ba60-a53a-46c4-0812-08df106a95ea
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+received-spf: SoftFail (protection.outlook.com: domain of transitioning
+ service-now.com discourages use of 143.55.149.216 as permitted sender)
+x-ms-exchange-crosstenant-id: b44900f1-2def-4c3b-9ec6-9020d604e19e
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:1;jmr:0;auth:0;dest:C;OFR:CustomRules;ENG:(910005)(944490095)(944506478)(944626604)(920097)(930201)(20251009189)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	=?us-ascii?Q?skcDu0OROkqB44h1oDq8mtK5XpdJVy82dokn08FPUL7FCQOK4fgLB/nXz7Wp?=
+ =?us-ascii?Q?c7NuQ301gGkx4PxvueFG6iIJUYMYjs6ed2JBjEa5yv7ZYHYIZlzIgQS4k75V?=
+ =?us-ascii?Q?ikjkkeNmhCRpMhKQ2ckBG9PF/j3K8mjqsA6vhOPBWTqeBFyoc0xEnAoJV7kj?=
+ =?us-ascii?Q?sxv/bEGNnFOvxQwIlAgNPjGy+PhpgT66Inbux22Yyaar868dOh0gGX4YRoIu?=
+ =?us-ascii?Q?TFUBTd7C2z2znNs6M/NNJn1SO8lRYJb0cZOQz1kRLcYytm7JMzSGyDEMaLWq?=
+ =?us-ascii?Q?ozZsVM06YLUgXTBob/hi1Z5J6XW7GEbR71zlIm91DW/gi1VgsU9XwF3oXX3F?=
+ =?us-ascii?Q?nvKRFPpsYBmktsFgJUuoPx3WbFqzyBM4WmSoaxzUgO+Zf5R35AqBFMvr73AN?=
+ =?us-ascii?Q?05RL+Qb8Gwb9jp2mG3Ts0A9wez26kxFrVGFc+bbU1WfN3ARkl3fG4z8pQewH?=
+ =?us-ascii?Q?7tYfUuXI29EHycOu4nktbLtBNrQnFguNpBvTFkar0y7EWwhMUCd3OUD37rLx?=
+ =?us-ascii?Q?iizjgVvxhmUgF1B1NDFGfYvDWjMvHxhUzXsNfsKVaWCO+nZNE9qNOk4OhXCk?=
+ =?us-ascii?Q?mffQaVy+rBbrp9gHxqHwIYrjKAWhC9QkWsv+uTZBlDbnHgxS9Csw66ooJ/6x?=
+ =?us-ascii?Q?9rwRnmBw+WxUWV0vfInrVxayhnaql3eQ4CmUEQpNWngxhxyv08akf0BPOKHl?=
+ =?us-ascii?Q?vA6DzIQ7LuBR9MXMBFK9zPU+03H+acHQTkDSrHNSEPCVXYkDTJJvxu8XUnpw?=
+ =?us-ascii?Q?+ZDLDISRixpryjaPPajk480ngJtHWXcjY6LmEKIiqeerrGfhknrO96AHz6X8?=
+ =?us-ascii?Q?U+OrFwEhrAlKgtTTd3FiZNZ9n9Oe/klGAWadhVmSzm6PYmdSA59tFCm5SVOX?=
+ =?us-ascii?Q?VF11NvdnT8hoI7yu2ze3Qlh08V2JkbREyyblayMHVUBy0UdIPo99B4OtquP9?=
+ =?us-ascii?Q?u3AqHhNVszvUy9LORZICNGl+VjLAoZKp9H9ppsv+oy10nvKxgXIPcEjIiuux?=
+ =?us-ascii?Q?/TbQEjhX5pEoOQ/oGvF90AHO1gVjMPdArJmLlDGYTfyzZRxkEKP2Au/8x7l+?=
+ =?us-ascii?Q?C7EML2alSqNjQ/svQ1Byu1k0oycQXHv+yFxumUg7gAwp9b/0FJOhtxl7282J?=
+ =?us-ascii?Q?klItK4MTx7nWkzCl4vqYmVrFC2+9wDC+Yiv8bss52bHCYkfdhK/MpZxsID8n?=
+ =?us-ascii?Q?NYc2Jk501/RkqGpXUw4QcNODdIIl8oVPYIMi65jz8duKR9S4oxxXyNSalyIv?=
+ =?us-ascii?Q?+4Vq/CiEMWF0q/CgvShegv3zIc0CV9EEhowbEg96hat6hkFTdSSoD42OzpNJ?=
+ =?us-ascii?Q?AZD/OQQ/t7VmRz8M6uWprDn3MgZwvVFmiu5ERtuHfIhksyOfm65RsmteEEmf?=
+ =?us-ascii?Q?AsxAlG2olEMyHYyLXIDqMrkJFoxpVgKFvtQ6N6uzMN6dNgUbKc2ErqqLU82l?=
+ =?us-ascii?Q?N8Lpsx7vIuKbxyRikbZEsnGGJC1h0t/JoWyc9O0PzvjlW4K5ZpByRTXYksjy?=
+ =?us-ascii?Q?ztoUtQ0d+4vwZiAWds56D4Qslrip5ZjO7pdb/p8uN6uxrCnk7lDhBTNtQsbd?=
+ =?us-ascii?Q?icySqW/zIuq4VKycmOA8xYE0VlO6yWk5MVnQ1ogeUUMGpnt4H2sdR2EOH1Hk?=
+ =?us-ascii?Q?YFcj2waa7VqjBfr9Gbczo6NldICHnnPoSWBZJRG1HsJ+/qbwLIotOjZ/nE4y?=
+ =?us-ascii?Q?0OBQc0Lj8/d1DOR4JtXh5egMBb9L7xa7UHcX2FmxLEbEyePbsUeL/liLhlyA?=
+ =?us-ascii?Q?09k9nCjh+Vv2oumXqTsCM6GrPQ1RNkSeNyQCIL0zTn5H1ON3YMdo1IY/EISY?=
+ =?us-ascii?Q?ulUXPM5Q6WUh1UoJLaY6zUfGoLvvGKq2Cm/mgmhIySzhXDGRHuN/OPLLPSnn?=
+ =?us-ascii?Q?l2t4J0su4rZInLz6FUS3ZOrkv5fXfvN5OK1M7iECYSfloD11m9CFxVcz4J8q?=
+ =?us-ascii?Q?cydSTLvEP0dpB4BUjC2Jymfp1oAWKAUX7W9ftmEggR1hVD6vtYUmNBt4NuQA?=
+ =?us-ascii?Q?sLCczBOU9cL24Lam/uLtH+M885h/PRa00pSvJaGzIceEBqEkzK5mUQUCFkJH?=
+ =?us-ascii?Q?OgChHJX5FqJGT/WYD4mTab58QH3g0NwVTiq62FsiyqRZjbrQ/B9THzQ2Wsjd?=
+ =?us-ascii?Q?LZl6V41oT3v+FpmpH/ETj+8eBqLfnfyABxJhBAd8EatEWiEW3mOdr2buJPYa?=
+ =?us-ascii?Q?i123BJDPOEriElhiM/Q9853Nw+FZ04iPQstLH3NTZL6x7tXMaBMjc9GYhtd9?=
+ =?us-ascii?Q?grq0kWR6fsiP3cA+cwimUx4HqrQHgVkO7lth7u+70pRj/u48BBHrHtfQ8Y35?=
+ =?us-ascii?Q?SxnjRYOSdICCUPUxGbYOeSIvSXEcVZuo3XF8vApGqXa1SuUdfJOmsx6KDPO5?=
+ =?us-ascii?Q?bV+Y37s94OZ5kSIW/ZksUYFLRIr+p5n+t+ZvGo+B38UV/rKXsP4pgDI4Jtrz?=
+ =?us-ascii?Q?OGfqlPLFHcMCbIhmubtHM/zVJFSboDufBifo1Nnei9NQqi2Ey67BodQoi31m?=
+ =?us-ascii?Q?djS6Pc1tM9eoAH4PDD2ix/3HE75NziCpI7Y2qQbWqM8mpDRzmg/K4uhqlNzp?=
+ =?us-ascii?Q?XUYaNaoAdFxMb9ERq+n8WR8tWIGcQgB0nU2B7CT8ehU5aeKf4QtT8N2/yDzB?=
+ =?us-ascii?Q?EAeFTfHhWST9X6g1LTZoqQZifQUf++o7PdrccsdXjMB/QIhA0bUXyZyO25VS?=
+ =?us-ascii?Q?2s858wN2yXtkgl+JGLsOA2Jz2WUeofR2De2Ro7KOBy2kVbtP?=
+Content-Type: multipart/alternative;
+	boundary="_000_13436649653861351789175403620app128142dub201servicenowc_"
+MIME-Version: 1.0
+
+--_000_13436649653861351789175403620app128142dub201servicenowc_
+Content-Type: text/plain; charset="us-ascii"
+
+Dear Dheeraj,
+
+Your last working day has been approved as 01-11-2026 on the Employee Portal. To change your last working day, please have a discussion with your People Leader and raise a request<https://scsg.service-now.com/myhr?id=sc_cat_item&sys_id=65a312a3db69530027a49ceadb961980&sysparm_category=undefined>.
+
+Please note that shortening your notice period may result in a reduction of your final settlement. Before you leave, we need you to complete some tasks and go through some details so that your exit from the Bank is as smooth as possible.
+
+To help you manage your exit, we've given you access to your offboarding case<https://scbnow01.service-now.com/jny?id=jny_journey_details&sys_id=ce52d4d93b1f43506ef50044c3e45afc>. Here, you can access and manage the tasks that you need to complete as part of your exit formalities. You can also track all of the steps and the progress of your offboarding journey and communicate with your offboarding specialist via the "Activity" section.
+
+Please be aware that Service Letters will be issued upon request only. You can request a Service Letter via the Alumni Portal.
+
+Please look out for an email sent to your registered personal address after your last working day containing a link and detailed instructions on how to access the Alumni portal. Follow the steps and submit your Service Letter request.
+
+We understand that you may have a lot of questions related to leaving, so we've prepared a helpful FAQ.<https://scsg.service-now.com/myhr?id=myhr_kb_article&sys_id=adc9fc0a877b251050adeac83cbb35ba> If you still have questions, just reach out to us via the activity section of your offboarding case and we will be happy to help.
+
+Many Thanks,
+
+Offboarding Team
+
+This is a system generated email please do not respond to this. For specific questions please visit the offboarding case.
+
+
+
+Unsubscribe<mailto:scbnow01@service-now.com?subject=Unsubscribe%20from> | Notification Preferences<https://scbnow01.service-now.com/nav_to.do?uri=notification_preferences.do%3Fsysparm_notification=c05cb6f6875df5104ba4a6890cbb350d>
+
+Ref:MSG363283923_AXCyjgGdfz3zah9nQG
+
+--_000_13436649653861351789175403620app128142dub201servicenowc_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <A820AD6FF351B5488F2B506F7902D14E@apcprd03.prod.outlook.com>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<style>
+	#snc_notification_preference {
+		text-decoration: none;
+	}
+	
+	#snc_notification_unsubscribe {
+		text-decoration: none;
+	}
+</style>
+</head>
+<body>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">Dear Dheeraj,</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">Your last working day has been approved as
+<span style="font-size: 10.5pt; line-height: 107%; font-family: 'SC Prosper Sans';">
+01-11-2026</span> on the Employee Portal. To change your last working day, please have a discussion with your People Leader and
+<a href="https://scsg.service-now.com/myhr?id=sc_cat_item&amp;sys_id=65a312a3db69530027a49ceadb961980&amp;sysparm_category=undefined" target="_blank" rel="noopener">
+raise a request</a>.&nbsp;</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">Please note that shortening your notice period may result in a reduction of your final settlement. Before you leave, we need you to complete some tasks and go through some details
+ so that your exit from the Bank is as smooth as possible.</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">To help you manage your exit, we've given you access to your
+<span dir="ltr"><a href="https://scbnow01.service-now.com/jny?id=jny_journey_details&amp;sys_id=ce52d4d93b1f43506ef50044c3e45afc" target="_blank">offboarding case</a></span>. Here, you can access and manage the tasks that you need to complete as part of your exit
+ formalities. You can also track all of the steps and the progress of your offboarding journey and communicate with your offboarding specialist via the &quot;Activity&quot; section.</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">Please be aware that Service Letters will be issued upon request only. You can request a Service Letter via the Alumni Portal.</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">Please look out for an email sent to your registered personal address after your last working day containing a link and detailed instructions on how to access the Alumni portal.
+ Follow the steps and submit your Service Letter request.</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">We understand that you may have a lot of questions related to leaving, so we've prepared a
+<a href="https://scsg.service-now.com/myhr?id=myhr_kb_article&amp;sys_id=adc9fc0a877b251050adeac83cbb35ba" target="_blank" rel="noopener">
+helpful FAQ.</a> If you still have questions, just reach out to us via the activity section of your offboarding case and we will be happy to help.</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">Many Thanks,</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">Offboarding Team</span></p>
+<p style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;">
+<span style="font-size: 10.5pt; font-family: 'SC Prosper Sans'; color: black;">This is a system generated email please do not respond to this. For specific questions please visit the offboarding case.</span></p>
+<br>
+<br>
+<a id="snc_notification_unsubscribe" href="mailto:scbnow01@service-now.com?subject=Unsubscribe from &quot;Voluntary Offboarding - Employee Welcome Email to Offboarding Portal&quot;&amp;body=Sending this email with the predefined content in the subject and body will unsubscribe you from the notification &quot;Voluntary Offboarding - Employee Welcome Email to Offboarding Portal&quot;%0D%0A%0D%0AUnsubscribe:{&quot;id&quot;:&quot;c05cb6f6875df5104ba4a6890cbb350d&quot;,&quot;token&quot;:&quot;c797e62132&quot;}">Unsubscribe</a>
+ | <a id="snc_notification_preference" href="https://scbnow01.service-now.com/nav_to.do?uri=notification_preferences.do%3Fsysparm_notification=c05cb6f6875df5104ba4a6890cbb350d">
+Notification Preferences</a>
+<div>&nbsp;</div>
+<div style="display:inline">Ref:MSG363283923_AXCyjgGdfz3zah9nQG</div>
+</body>
+</html>
+
+--_000_13436649653861351789175403620app128142dub201servicenowc_--
